@@ -1,0 +1,19 @@
+
+Implement Efficient Message Queue System in Java [ Parallel Processing ]
+
+Description:
+	It is a java project a simulator which demonstrates the message queue system how to process several incoming request to an application.
+	
+	A sample application can be - An app which gives you the most nearest and second nearest place to get a good or a service done for an user.
+	
+	Input to the whole project - number of current users
+	Input by individual user - current location, good
+	Configurable  - no of users, time between each request sent by an user. 
+	
+Desgins to be thought of:
+	- Database
+	- Architecture for the simulator
+
+Notes:
+	A single program which creates several individual child processes
+	Or one master and many slaves.
