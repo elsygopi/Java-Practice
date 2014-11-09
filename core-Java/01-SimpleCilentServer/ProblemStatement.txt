@@ -1,0 +1,4 @@
+Objective: Simple client and server programs using java socket programming
+
+Input: client sends a string
+Output: Server responds the string lenght
