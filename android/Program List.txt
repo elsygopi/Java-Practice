@@ -1,0 +1,25 @@
+1. Socket Program - Android app client and java server
+        Input - HTML form input - text bx - string
+        Output - HTML output - display string length
+2. Web Application - Android app client and web server
+         Input and output - same as above
+3. CRUD android app with simple database in mobile
+         
+4. CRUD android app with database at web server end
+5. Accounts App
+         Features:
+             a. we should be able to see the monthly income, savings, near and future expenses clearly including the cash money
+             b. balance sheet - where expenses + savings = income for each moenth
+             c. A simple form to enter the expense amount and reason and source of money [ which debit / credit/ cash ]
+             d. Notification which will read sms [ salary or atms withdrawal or transfers ] in the mobile and ask for approval to approve. User can choose to do this manually in the form mentioned above too
+ User should be able to 
+6. Billing App
+          Features:
+              a. Stock Management sheet [ stocks - count, amount, discount, cost price, selling price, price effective from date , price effective end date ]
+              b. Billing sheet 
+              c. Voice recognition billing system
+              d. Gives Notifications of items expiring in next 2 months
+              e. Accounts page - to check profit
+              f. Suggestion for ordering new stocks
+              g. highlighting the most sold products
+7. Parallelism and MQ
